@@ -5,7 +5,7 @@
             <span class="block mb-1">
                 Seorang fresh-graduate dengan latar belakang Sarjana Teknik Informatika dari Universitas Budi Darma.
                 Dengan semangat dan energi tinggi, saya siap memulai karir profesional. Selama masa studi, saya telah
-                mengembangkan keterampilan sebagai Web Developer melalui berbagai proyek, tugas, dan pengalaman praktis
+                mengembangkan keterampilan sebagai <span class="italic">Frontend Web Developer</span> melalui berbagai proyek, tugas, dan pengalaman praktis
                 yang relevan. Saya dikenal sebagai individu yang disiplin dan cepat belajar, dengan kemampuan komunikasi
                 yang baik dan kemampuan pemecahan masalah yang efektif. Saya berkomitmen untuk memberikan kontribusi
                 positif dalam lingkungan kerja yang dinamis dan berfokus pada peningkatan keterampilan serta pengetahuan
