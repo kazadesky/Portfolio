@@ -32,12 +32,12 @@ export default {
                 {
                     title: 'International Association of Economics and Bussiness',
                     link: 'https://iaeb-international.org',
-                    description: 'Project dibangun menggunakan framework laravel dan framework talwindcss setelah diupgrade dari bootstrap, yang dimana pengerjaannya dilakukan dengan tim yang berjumlah kan 2 orang. Disini kami sudah membagi peran masing-masing yaitu saya mengambil bangian frontend developer dan teman saya mengambil bagian menjadi backend developer.',
+                    description: 'Project dibangun menggunakan framework laravel dan framework talwindcss setelah diupgrade dari bootstrap, yang dimana pengerjaannya dilakukan dengan tim yang berjumlah kan 2 orang. Disini kami sudah membagi peran masing-masing yaitu saya mengambil bagian frontend developer dan teman saya mengambil bagian menjadi backend developer.',
                 },
                 {
                     title: 'Virtual Invitation',
                     link: 'https://virtualinvitation.org',
-                    description: 'Project ini dibangun menggunakan framework laravel dan framework tailwindcss, dimana project ini dibangun dengan tim yang berjumlah kan 3 orang. Disini kami mempunyai bangian nya masing-masing dan saya berperan sebagai frontend developer pada project ini. ',
+                    description: 'Project ini dibangun menggunakan framework laravel dan framework tailwindcss, dimana project ini dibangun dengan tim yang berjumlahkan 3 orang. Disini kami mempunyai bagiannya masing-masing dan saya berperan sebagai frontend developer pada project ini. ',
                 },
             ],
         }
